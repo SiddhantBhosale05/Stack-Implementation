@@ -11,7 +11,7 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 **Key Characteristics of Stack**
 
 - **LIFO Structure**: The most recently added element is the first to be removed.
-  eg-
+  Example
   
   ```cpp
   struct Stack {

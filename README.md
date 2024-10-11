@@ -2,7 +2,7 @@
 Experiment 18
 
 ## Aim 
-To use excepttion handling.
+To implement stack.
 
 ## Theory
 ### Definition

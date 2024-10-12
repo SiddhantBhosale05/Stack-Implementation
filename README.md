@@ -73,7 +73,7 @@ Stacks can be implemented using two main methods: arrays and linked lists.
      - **Check if the stack is empty (`top >= 0`).**
      - **If not empty, return the element at `arr[top]`.**
      - **If empty, return -1.**
-6. **Main Function Algorithm**
+6. **Main Function**
    - **Create a Stack Instance:**
      - **Instantiate a `Stack` object with a capacity of 5.**
    - **Push Elements:**
